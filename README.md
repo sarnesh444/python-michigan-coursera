@@ -2,7 +2,7 @@
 
 
 ## This repository is a part of my college-currciculum-internship on coursera,this is a python specialization offered by University of Michigan.
-This is a python referesher for me,this repo consits of the code I found useful from this course.
+This is a python referesher for me,this repo consits of the code I found useful from this course and also the assignments.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
